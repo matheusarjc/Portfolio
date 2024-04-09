@@ -17,3 +17,9 @@ This section contains the description and organization of this Portfolio. It mea
 > > My CV is able in this [link]()
 
 The projects listed in these documents are the ones I have developed during my time in US and studying in FIAP. I decided to reformulate all my projects in a more professional way and a certain upgrade according to my proficiency, adopting clean and documented code methodologies, so that I compare it to the old projects that I even left on my github to be noticeable the difference, even if it costs me a certain delay in my career progression, but re-starting to improve is better than continuing to make mistakes and living a level that I clearly am not.
+
+---
+
+### List of apps/plugins/software<a name = "Apps"></a>
+
+#### [Stuff To Development](https://github.com/matheusarjc/StuffToDevelopment)
